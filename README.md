@@ -20,9 +20,13 @@ Secureum - https://github.com/x676f64/secureum-mind_map
 # Practice Solidity Security
 https://github.com/blockthreat/blocksec-ctfs - Nice repo of Ethereum CTF's as well as writeups from some giga brains.
 
+
 # Tools
 Metamask
 Remix
 Hardhat
 VisualStudio Code
   Extensions:
+
+# Resources
+https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#erc-conformity
