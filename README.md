@@ -30,3 +30,4 @@ VisualStudio Code
 
 # Resources
 https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#erc-conformity
+https://consensys.github.io/blockchainSecurityDB/
