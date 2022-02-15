@@ -30,7 +30,7 @@ VisualStudio Code
 [Solhint](https://protofire.github.io/solhint/) - keeping your code "clean"   
 [Slither](https://github.com/crytic/slither) - open source suite of vulnerability detectors. Prints visua information about contract details.  
 Echidna - Fuzzing/property based testing. Uses sophisticated grammar based fuzzing campaigns  
-[Security Toolbox](https://github.com/trailofbits/eth-security-toolbox) Docker image with security toolset
+[Security Toolbox](https://github.com/trailofbits/eth-security-toolbox) Docker image with security toolset  
 [Hardhat Gas Reporter](https://www.npmjs.com/package/hardhat-gas-reporter)
 
 # Resources
