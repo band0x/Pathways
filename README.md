@@ -22,11 +22,14 @@ https://github.com/blockthreat/blocksec-ctfs - Nice repo of Ethereum CTF's as we
 
 
 # Tools
-Metamask
-Remix
-Hardhat
-VisualStudio Code
-  Extensions:
+Metamask  
+Remix  
+Hardhat  
+VisualStudio Code  
+  Extensions:  
+[Solhint](https://protofire.github.io/solhint/) - keeping your code "clean"   
+[Slither](https://github.com/crytic/slither) - open source suite of vulnerability detectors. Prints visua information about contract details.  
+Echidna - Fuzzing/property based testing. Uses sophisticated grammar based fuzzing campaigns
 
 # Resources
 https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#erc-conformity
